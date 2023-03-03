@@ -1,0 +1,1 @@
+from myPackage.myModule import *
